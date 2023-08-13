@@ -1,6 +1,5 @@
-// import { BsShare } from "react-icons/bs";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faHeart, faMessage, faShareNodes } from '@fortawesome/free-solid-svg-icons'
+
+
 const Card = (props) => {
     return (
         <>
