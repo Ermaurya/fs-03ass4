@@ -1,6 +1,6 @@
 import Card from './component/Card';
 import './App.css';
-import Comp from './component/Comp';
+
 
 function App() {
   return (
